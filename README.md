@@ -1,7 +1,6 @@
 # Gemma Chat Persona Builder
 
-![Gemma Chat Persona Builder Banner](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/gemma-header.png)
-
+ Hugging face Space demo : https://huggingface.co/spaces/BhumikaShetty/gemmabot
 ## Overview
 
 Gemma Chat Persona Builder is an interactive AI chat application that allows users to converse with customizable AI personas. Powered by Google's Gemma 1.1 2B model, this application offers a unique and engaging way to interact with AI through different personality lenses.
